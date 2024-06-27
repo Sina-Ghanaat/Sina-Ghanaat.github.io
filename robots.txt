@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Sina-Ghanaat.github.io/sitemap.xml
+Sitemap: https://sina-ghanaat.github.io/sitemap.xml
