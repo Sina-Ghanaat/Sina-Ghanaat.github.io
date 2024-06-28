@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Software-hhhMotion Engineering Services. </a> Address. Contacts. Moto. Etc.
+subtitle: <a href="https://sw-motion.tech"> Software-Motion Engineering Services </a>
 profile:
   align: right
   image: prof_pic.jpg
