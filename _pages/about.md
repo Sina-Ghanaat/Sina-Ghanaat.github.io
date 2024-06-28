@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Autonomous Driving Algorithm Engineer <a href='#'>https://sw-motion.tech/</a>.
 
 profile:
   align: right
